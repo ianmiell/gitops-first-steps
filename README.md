@@ -12,21 +12,21 @@ https://www.oreilly.com/live-training/courses/gitops-first-steps/0636920480976/
 
 [Demo infra repository](https://github.com/ianmiell/gitops-example-infra/)
 
-[Demo application repository](https://github.com/ianmiell/gitops-example-app/)]
+[Demo application repository](https://github.com/ianmiell/gitops-example-app/)
 
-[https://github.com/ianmiell/gitops-example-deploy/](Demo deployment repository)
+[Demo deployment repository](https://github.com/ianmiell/gitops-example-deploy/)
 
 ### Blog Posts / Content
 
-[https://info.container-solutions.com/what-is-gitops-ebook/](Free GitOps introductory book)
+[Free GitOps introductory book](https://info.container-solutions.com/what-is-gitops-ebook/)
 
-[https://blog.container-solutions.com/gitops-limitations/](Blog post on GitOps's limitations)
+[Blog post on GitOps's limitations](https://blog.container-solutions.com/gitops-limitations/)
 
-[https://zwischenzugs.com/2020/11/30/gitops-decisions/](Blog post on 'GitOps Decisions' and implementation)
+[Blog post on 'GitOps Decisions' and implementation](https://zwischenzugs.com/2020/11/30/gitops-decisions/)
 
-[https://www.weave.works/blog/gitops-operations-by-pull-request/](Original blog post)
+[Original blog post](https://www.weave.works/blog/gitops-operations-by-pull-request/)
 
-[https://www.weave.works/technologies/gitops/](Original definition)
+[Original definition](https://www.weave.works/technologies/gitops/)
 
 ### Tech
 
