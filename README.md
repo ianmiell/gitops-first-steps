@@ -8,11 +8,11 @@ https://www.oreilly.com/live-training/courses/gitops-first-steps/0636920480976/
 
 ### Demo
 
-[https://github.com/ianmiell/gitops-example/](Demo jump-off repository)
+[Demo jump-off repository](https://github.com/ianmiell/gitops-example/)
 
-[https://github.com/ianmiell/gitops-example-infra/](Demo infra repository)
+[Demo infra repository](https://github.com/ianmiell/gitops-example-infra/)
 
-[https://github.com/ianmiell/gitops-example-app/](Demo application repository)
+[Demo application repository](https://github.com/ianmiell/gitops-example-app/)]
 
 [https://github.com/ianmiell/gitops-example-deploy/](Demo deployment repository)
 
