@@ -39,6 +39,5 @@ https://www.oreilly.com/live-training/courses/gitops-first-steps/0636920480976/
 
 ### Course
 
-[https://www.oreilly.com/live-training/courses/gitops-first-steps/0636920480976/](Course O'Reilly page)
+[Course O'Reilly page](https://www.oreilly.com/live-training/courses/gitops-first-steps/0636920480976/)
 
-[https://github.com/ianmiell/gitops-first-steps](This repository)
